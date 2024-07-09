@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning in Shandong University.
 - 👯 You can contact me in QQ:335539025.
+
+### My Language
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,linux,vue,rust,js,cloudflare,html,css,latex,md,cpp,c,cmake,python,java&perline=7&theme=light" />
+  </a>
