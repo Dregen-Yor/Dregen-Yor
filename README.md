@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Dregen-Yor/Dregen-Yor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,11 +12,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning in Shandong University.
-- 👯 You can contact me in QQ:335539025.
+## About Me
+I am pursuing a bachelor's degree in Computer Science and Technology at Shandong University.
+
+An Arch Linux user who enjoys using Arch as a daily work platform.
+
+I am serving as the student leader of the ACM-ICPC Lab for the 2024-2025 academic year.
+
+You can reach me via QQ: 335539025 or email: Gxin.Sun@outlook.com.
+
+### Learning Plan
+- Typst
+- Deep-Learning
+
+### Awards and Achievements
+
+- Awarded First Prize in the 2022 National Olympiad in Informatics in Provinces (NOIP)
+- Bronze Medalist in the 49th ICPC International Collegiate Programming Contest Regional Contest (Hangzhou Site)
 
 ### My Language
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,linux,vue,rust,js,cloudflare,html,css,latex,md,cpp,c,cmake,python,java&perline=7&theme=light" />
   </a>
+
+
+
