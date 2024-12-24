@@ -20,7 +20,12 @@ An Arch Linux user who enjoys using Arch as a daily work platform.
 I am serving as the student leader of the ACM-ICPC Lab for the 2024-2025 academic year.
 
 You can reach me via QQ: 335539025 or email: Gxin.Sun@outlook.com.
+<span>
+<img src="https://github-readme-stats.vercel.app/api?username=Dregen-Yor&show_icons=true&theme=radical" width="51%"  />
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWP4////fwAJ+wP9CNHoHgAAAABJRU5ErkJggg==" width="3.5%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dregen-Yor&layout=compact" width="42.62%" />
 
+</span>
 ### Learning Plan
 - Typst
 - Deep-Learning
