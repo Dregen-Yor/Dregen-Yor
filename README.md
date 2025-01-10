@@ -23,7 +23,7 @@ You can reach me via QQ: 335539025 or email: Gxin.Sun@outlook.com.
 <span>
 <img src="https://github-readme-stats.vercel.app/api?username=Dregen-Yor&show_icons=true&theme=radical" width="51%"  />
 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWP4////fwAJ+wP9CNHoHgAAAABJRU5ErkJggg==" width="3.5%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dregen-Yor&layout=compact" width="42.62%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dregen-Yor&hide=VHDL&layout=compact" width="42.62%" />
 
 </span>
 ### Learning Plan
