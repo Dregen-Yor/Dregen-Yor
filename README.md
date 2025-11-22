@@ -29,12 +29,14 @@ You can reach me via QQ: 335539025 or email: `gxin.sun@mail.sdu.edu.cn` or `gx.s
 
 ### Learning Plan
 - Gen-Recsys
+- Mulit-Agent System
 
 ### Awards and Achievements
 - Gold Medalist in the 2025 Shandong Provincial Programming Contest (ranking 8)
-- Silver Medal (4th Place), The 50th Xi'an ICPC International Collegiate Programming Contest Invitational Contest
-- Awarded First Prize in the 2022 National Olympiad in Informatics in Provinces (NOIP)
+- Silver Medal in the 50th ICPC International Collegiate Programming Contest Regional Contest (Wuhan Site)
+- Silver Medal in the 50th ICPC International Collegiate Programming Contest Regional Contest (Nanjing Site)
 - Bronze Medalist in the 49th ICPC International Collegiate Programming Contest Regional Contest (Hangzhou Site)
+- Awarded First Prize in the 2022 National Olympiad in Informatics in Provinces (NOIP)
 
 ### My Language
 <p align="center">
